@@ -1,0 +1,3 @@
+Model 3
+Subset ZIN15 II
+Epoch 500

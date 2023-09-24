@@ -1,0 +1,3 @@
+Model 2
+Subset ZIN15 II
+Epoch 350

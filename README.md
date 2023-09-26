@@ -6,7 +6,7 @@
 ### ZINC15 dataset
 - two subsets of ZINC15 data
 - 1 million random molecules stored in archive folder comptacted in chunks of 100,000
-- 100,000 random molecules (1/10) used due to Ocean Code memory limitation
+- 100,000 random molecules (1/10) used due to Ocean Code memory limitation and trial run used 10 epochs with model 3 (subset zinc15-III)
 
 ### 1. MedGAN_WGAN-GP
 - Create a `logs` folder for TensorBoard metrics (one for each model).

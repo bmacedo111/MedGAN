@@ -21,3 +21,6 @@
 - Use the toxicity prediction model to make predictions on the generated molecules.
 - Utilize `sascorer.py` to apply the Erl algorithm on synthetic accessibility.
 - Calculate Lipinski's Rule of Five for the generated molecules.
+
+## Reproducible code
+- HTML files on 'reproducible code' folder from jupyter notebook for each model trial run, generator and drug-likeness assessment

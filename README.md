@@ -5,7 +5,7 @@
 
 ### ZINC15 dataset
 - two subsets of ZINC15 data
-- 1 million random molecules stored in archive folder comptacted in chunks of 100,000
+- 100k random molecules stored in archive folder
 
 ### 1. MedGAN_WGAN-GP
 - Create a `logs` folder for TensorBoard metrics (one for each model).
@@ -21,6 +21,3 @@
 - Use the toxicity prediction model to make predictions on the generated molecules.
 - Utilize `sascorer.py` to apply the Erl algorithm on synthetic accessibility.
 - Calculate Lipinski's Rule of Five for the generated molecules.
-
-## Reproducible code
-- HTML files on 'reproducible code' folder from jupyter notebook for each model trial run, generator and drug-likeness assessment
